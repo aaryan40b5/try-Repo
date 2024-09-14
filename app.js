@@ -1,3 +1,3 @@
 //made some changes
 
-let a = 3;
+let a = 10;
